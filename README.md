@@ -15,17 +15,6 @@ A modern web application for predicting building heating load using machine lear
 
 </div>
 
-## 📱 Application Screenshots
-
-<div align="center">
-  <img src="images/app-form.png" alt="Prediction Form" width="45%" style="margin: 10px;"/>
-  <img src="images/app-results.png" alt="Prediction Results" width="45%" style="margin: 10px;"/>
-</div>
-
-<div align="center">
-  <p><em>Left: Building Parameter Input Form | Right: Prediction Results Display</em></p>
-</div>
-
 ## 🌟 Features
 
 - **🎯 Multiple ML Models**: Compare predictions from Linear Regression, Decision Tree, and Random Forest
