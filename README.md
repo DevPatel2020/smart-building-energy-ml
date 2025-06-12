@@ -1,7 +1,7 @@
 # 🏢 Smart Building Energy ML
 
 <div align="center">
-  <img src="assests/images/smart-building-hero.png" alt="Smart Building Energy ML" width="600" style="border-radius: 10px; margin: 20px 0;"/>
+  <img src="assets/images/smart-building-hero.png" alt="Smart Building Energy ML" width="600" style="border-radius: 10px; margin: 20px 0;"/>
 </div>
 
 A modern web application for predicting building heating load using machine learning models. Built with React (Vite.js) frontend and Flask backend, featuring three trained ML models: Linear Regression, Decision Tree, and Random Forest.
