@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Acknowledgments
 
-- Energy Efficiency Dataset from UCI Machine Learning Repository
+- Energy Efficiency Dataset from UCI Machine Learning Repository(https://archive.ics.uci.edu/dataset/242/energy+efficiency)
 - Built with modern web technologies for optimal performance
 - Inspired by sustainable building design principles
 
