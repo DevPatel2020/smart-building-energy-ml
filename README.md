@@ -77,20 +77,25 @@ cd smart-building-energy-ml
 ```
 
 ### 2️⃣ Backend Setup
-```bash
 cd backend
-
-# Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
 pip install -r requirements.txt
 
-# Start the Flask server
+# If you get any module-related errors:
+pip install flask flask-cors joblib numpy
+pip install scikit-learn
+
+# Run the backend
 python app.py
-```
-The backend will run on `http://localhost:5000`
+
+⚠️ Python Version Advisory
+
+It is recommended to use Python 3.11.3, because the version of numpy used (1.24.3) is not compatible with Python 3.12.3 and later.
+If you encounter errors like numpy.core.multiarray failed to import, it's likely due to this version mismatch.
+
+🔗 Once running, your backend will be available at:
+
+http://localhost:5000
+
 
 ### 3️⃣ Frontend Setup
 ```bash
