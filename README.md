@@ -72,7 +72,7 @@ smart-building-energy-ml/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart-building-energy-ml.git
+git clone https://github.com/DevPatel2020/smart-building-energy-ml.git
 cd smart-building-energy-ml
 ```
 
