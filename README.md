@@ -81,8 +81,7 @@ cd backend
 pip install -r requirements.txt
 
 # If you get any module-related errors:
-pip install flask flask-cors joblib numpy
-pip install scikit-learn
+pip install flask flask-cors joblib numpy scikit-learn
 
 # Run the backend
 python app.py
